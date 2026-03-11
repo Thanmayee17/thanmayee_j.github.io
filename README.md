@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This site showcases my skills, projects, and interests in **Data Engineering and Analytics**.
 
 🔗 **Live Website:**
-https://github.com/Thanmayee17/thanmayee_j.github.io.git
+https://thanmayee17.github.io/thanmayee_j.github.io/
 
 ---
 
@@ -76,7 +76,7 @@ https://github.com/Thanmayee17
 
 You can view my portfolio here:
 
-👉 https://github.com/Thanmayee17/thanmayee_j.github.io.git
+👉 https://thanmayee17.github.io/thanmayee_j.github.io/
 
 ---
 
