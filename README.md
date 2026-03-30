@@ -28,17 +28,19 @@ My goal is to design efficient **data pipelines and data-driven solutions**.
 
 # 🚀 Projects
 
-### 1️⃣ Covid Data Engineering Pipeline
+### 1️⃣ Scalable Retail Analytics Data Pipeline using Azure Medallion Architecture
+
+Built an end-to-end scalable retail analytics pipeline on Azure using Medallion architecture with ADF, Databricks, and Synapse, delivering clean, validated, analytics-ready data for Power BI.
+
+### 2️⃣ Covid Data Engineering Pipeline
 
 Built an ETL pipeline using **Azure Data Factory and PySpark** to process Covid datasets and prepare analytics-ready data.
 
-### 2️⃣ Courier Management System
+### 3️⃣ Courier Management System
 
 Designed a **relational SQL database system** for courier tracking and reporting.
 
-### 3️⃣ Workplace Analytics
 
-Created analytical datasets and queries to analyze workplace practices and patterns.
 
 ---
 
